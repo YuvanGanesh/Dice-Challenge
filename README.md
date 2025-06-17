@@ -27,6 +27,5 @@ This is a basic web-based dice game where two players roll the dice, and the pla
 ## 🖥️ Live Demo
 
 [Click here to play the game](https://yuvanganesh.github.io/Dice-Challenge/)  
-_(https://github.com/YuvanGanesh/Dice-Challenge)_
 
 
