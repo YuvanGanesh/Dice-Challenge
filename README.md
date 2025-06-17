@@ -16,7 +16,7 @@ This is a basic web-based dice game where two players roll the dice, and the pla
 
 - HTML
 - CSS
-- JavaScript (Vanilla)
+- JavaScript
 
 ## 🎮 How to Play
 
